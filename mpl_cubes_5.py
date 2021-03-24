@@ -15,5 +15,3 @@ plt.tick_params(axis='both', labelsize=14)
 
 
 plt.show()
-
-print(y_values)

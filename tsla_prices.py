@@ -12,5 +12,6 @@ plt.ylabel('Price $', fontsize=14)
 # Set size of tick labels
 plt.tick_params(axis='both', which='major', labelsize=14)
 
+
 plt.savefig('./images/1week_tsla_price.png', bbox_inches='tight')
 plt.show()

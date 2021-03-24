@@ -13,5 +13,6 @@ plt.ylabel("Square of Value", fontsize=14)
 # Set size of tick labels
 plt.tick_params(axis='both', labelsize=14)
 
+
 plt.savefig('images/my_first_graph.png')
 plt.show()

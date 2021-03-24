@@ -19,6 +19,5 @@ plt.tick_params(axis='both', which='major', labelsize=14)
 # x, y axis range
 plt.axis([0, 5500, 0, 5100**3])
 
-
 plt.savefig('./images/cubes_plot_5000.png')
 plt.show()
