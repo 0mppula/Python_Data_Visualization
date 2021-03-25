@@ -14,13 +14,7 @@ def check_int_value(integer, less_than, greater_than):
         return True
 
 
-while True:
-    counter += 1
-    plt.close()
-    rw = RandomWalk()
-    rw.fill_walk()
-    data_points = list(range(rw.num_points))
-
+def create_fig():
     plt.figure(dpi=110, figsize=(10, 6))
     plt.plot(rw.x_values, rw.y_values, c=(
         0.12, 0.12, 0.12), linewidth=0.5, zorder=1)
@@ -34,7 +28,13 @@ while True:
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
-    plt.savefig('./generating_data/images/pollen_path.png')
+
+while True:
+    counter += 1
+    plt.close()
+    rw = RandomWalk()
+    rw.fill_walk()
+    data_points = list(range(rw.num_points))
 
     # Store ending x, y values
     ending_x = int(rw.x_values[-1])
@@ -43,6 +43,7 @@ while True:
     # Breaks loop if ending values of x and y coordinates are with in a 100,
     # points of starting position
     if check_int_value(ending_x, 50, -51) and check_int_value(ending_y, 50, -51):
+        create_fig()
         plt.savefig('./generating_data/images/pollen/plot_'f'{counter}')
         plt.show()
         break
