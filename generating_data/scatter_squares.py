@@ -16,5 +16,5 @@ plt.ylabel('Square of Value', fontsize=14)
 plt.axis([0, 1100, 0, 1100000])
 
 
-plt.savefig('./images/squares_plot.png', bbox_inches='tight')
+plt.savefig('./generating_data/images/squares_plot.png', bbox_inches='tight')
 plt.show()

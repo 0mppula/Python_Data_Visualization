@@ -21,7 +21,7 @@ while True:
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
-    plt.savefig('./images/pollen_path.png')
+    plt.savefig('./generating_data/images/pollen_path.png')
     plt.show()
 
     new_figure = input('Do you want to plot a new chart? (y/n): ')

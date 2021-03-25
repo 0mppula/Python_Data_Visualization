@@ -34,7 +34,7 @@ while True:
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
-    plt.savefig('./images/pollen_path.png')
+    plt.savefig('./generating_data/images/pollen_path.png')
 
     # Store ending x, y values
     ending_x = int(rw.x_values[-1])
@@ -43,6 +43,6 @@ while True:
     # Breaks loop if ending values of x and y coordinates are with in a 100,
     # points of starting position
     if check_int_value(ending_x, 50, -51) and check_int_value(ending_y, 50, -51):
-        plt.savefig('./images/pollen/plot_'f'{counter}')
+        plt.savefig('./generating_data/images/pollen/plot_'f'{counter}')
         plt.show()
         break

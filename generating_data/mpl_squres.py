@@ -14,5 +14,5 @@ plt.ylabel("Square of Value", fontsize=14)
 plt.tick_params(axis='both', labelsize=14)
 
 
-plt.savefig('images/my_first_graph.png')
+plt.savefig('./generating_data/images/my_first_graph.png')
 plt.show()

@@ -22,7 +22,7 @@ while True:
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
-    plt.savefig('./images/random_walk.png')
+    plt.savefig('./generating_data/images/random_walk.png')
     plt.show()
 
     # Check for quit
