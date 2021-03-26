@@ -9,4 +9,4 @@
 -   [x] 15-7. Two D8s
 -   [x] 15-8. Three Dice
 -   [x] 15-9. Multiplication
--   [ ] 15-10. Practicing with Both Libraries
+-   [x] 15-10. Practicing with Both Libraries
