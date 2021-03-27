@@ -1,4 +1,6 @@
-# Python Data Visualization Excersises with Python
+# Data Visualization Excersises With Python
+
+## Chapter 15 Generating Data
 
 -   [x] 15-1. Cubes
 -   [x] 15-2. Colored Cubes
