@@ -22,9 +22,6 @@ with open(data_file) as f:
     reader = csv.reader(f)
     header_row = next(reader)
 
-    # for index, column_header in enumerate(reader):
-    #     print(index, column_header)
-
     dates, lows, highs = [], [], []
     for row in reader:
         date = (row[0])
