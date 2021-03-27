@@ -1,4 +1,4 @@
-# Python Data Visualization Excersises Python from Python Crash Course by: Eric Matthes
+# Python Data Visualization Excersises Python from Crash Course by: Eric Matthes
 
 ## Chapter 15 Generating Data
 
