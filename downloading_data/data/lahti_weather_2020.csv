@@ -1,0 +1,357 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Lahti, Etelä-Suomi, Suomi",01/01/2020,2.7,-2.5,0.5,-6.5,,0,0,0,18,255.42,39.6,45.1,31.4,88.52,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",01/02/2020,4,1.9,2.7,-2.5,,0,0,0,18,242.5,39.6,37.6,23.5,85.51,Clear
+"Lahti, Etelä-Suomi, Suomi",01/03/2020,4.7,1.5,3.9,-2.5,,1.69,0,0,28.8,242.92,61.2,29.5,50.5,87.36,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/04/2020,1.1,-0.3,0.4,-5.9,,0.45,0,0,28.8,265.42,57.6,48,31.4,75.89,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/05/2020,-0.1,-6.9,-3.3,-10.5,,0.05,0,0,36,292.5,57.6,42.1,32.4,70.79,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/06/2020,0.5,-3.2,-0.2,-9,,3.49,0,0,21.6,236.96,43.2,7,53,97.74,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/07/2020,4.2,0.8,3.1,-3.3,,0.54,0,0,14.4,219.17,36,15.8,53.3,97.04,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/08/2020,6.8,2.8,4.6,-0.8,,4.24,0,0,28.8,231.67,61.2,20.4,47.4,94.13,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/09/2020,2.7,-1.1,1.2,-4.8,,0,0,0,18,266.04,36,42.6,3,85.47,Clear
+"Lahti, Etelä-Suomi, Suomi",01/10/2020,-1.3,-5.6,-3.2,-8.6,,0,0,0,10.8,292.38,18,19.3,14.6,93.84,Clear
+"Lahti, Etelä-Suomi, Suomi",01/11/2020,2.3,-5.5,-2.2,-7.4,,0.67,0,0,28.8,233.32,61.2,24.6,22.7,90.02,Rain
+"Lahti, Etelä-Suomi, Suomi",01/12/2020,5.2,2,3.7,-3.5,,4.65,0,0,32.4,246.25,61.2,26.7,51.6,94.57,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/13/2020,1.6,-0.7,0.2,-4,,0.07,0,0,14.4,257,32.4,42.5,41.6,92.6,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/14/2020,3.2,0.6,1.9,-3.6,,2.17,0,0,28.8,218.7,57.6,36.8,49.5,87.93,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/15/2020,7.5,2.4,5.2,-1.9,,7.3,0,0,28.8,221.67,64.8,28,49.6,89.83,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/16/2020,4.6,3.5,4.3,0.9,,0.14,0,0,14.4,240,28.8,30,49.8,87.77,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/17/2020,4.6,2.1,3.4,-1.5,,0,0,0,21.6,242.92,43.2,19.9,46,91.4,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",01/18/2020,4.8,1.2,3.1,-3.1,,1.06,0,0,21.6,207.5,43.2,14.9,51.4,93.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/19/2020,4.7,1.1,2.6,-3.6,,0.8,0,0,18,255.83,43.2,32.7,52.2,90.61,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/20/2020,3.1,1.4,2,-3,,0,0,0,18.7,265.17,46.8,38.8,50.3,84.82,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",01/21/2020,6.8,2.4,4.5,-2.9,,0,0,0,25.2,289.58,54,44.9,28.7,68.37,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",01/22/2020,2.5,-1.1,0.4,-6.2,,0.14,0,0,28.8,314.17,57.6,43.7,31.7,72.92,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/23/2020,0.8,-3.3,-1.4,-8.2,,0.39,0,0,18,268.33,36,42.1,30.7,86.65,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/24/2020,2.4,-0.9,1,-4.6,,0,0,0,14.4,263.75,32.4,49.3,31.1,85.64,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",01/25/2020,0.9,-3,-0.4,-6.2,,0,0,0,28.8,292.08,54,48.9,13.4,77.11,Clear
+"Lahti, Etelä-Suomi, Suomi",01/26/2020,3.3,-2.9,0.3,-6.5,,1.33,0,0,18,211.67,36,27.1,49.6,91.83,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/27/2020,-2.6,-4.6,-3.6,-9.9,,1.69,0,0,18,95.83,36,18.5,52.7,91.85,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/28/2020,1.4,-2.5,0,-5.4,,4.75,0,0,14.4,153.33,25.2,5.6,43,97.21,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/29/2020,1.3,-0.3,0.3,-4.7,,0.65,0,0,18,121.25,36,12.9,49.8,96.61,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/30/2020,0.1,-0.6,-0.3,-5.5,,6.29,0,0,18,127.92,28.8,6.8,53.4,97.84,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",01/31/2020,-0.6,-1.6,-1.1,-6.3,,0.68,0,0,18,108.75,28.8,8.3,53.5,97.02,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/01/2020,1.2,-1.7,-0.4,-6.4,,7.33,0,0,25.2,155.83,43.2,5.8,52.8,97.99,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/02/2020,3.5,0.7,2.1,-2.7,,1.8,0,0,18,247.08,36,18.8,43,97.33,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/03/2020,0.6,-3.9,-1.4,-9.4,,0.06,0,0,21.6,320,50.4,48.3,40.6,82.04,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/04/2020,-3.6,-7.5,-5.7,-12.9,,0,0,0,21.6,330,36,48.6,4.2,81.79,Clear
+"Lahti, Etelä-Suomi, Suomi",02/05/2020,0.5,-7.2,-2.8,-12,,0.42,0,0,21.6,270.42,39.6,38.7,48.4,87.45,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/06/2020,-0.5,-8,-5,-15.5,,0.34,0,0,36,329.17,54,47.8,6.6,75.92,Rain
+"Lahti, Etelä-Suomi, Suomi",02/07/2020,-0.8,-10,-5.7,-15.3,,2.08,0,0,21.6,287.08,39.6,35.4,26.6,86.72,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/08/2020,0.7,-1.1,-0.3,-5,,0.06,0,0,18,236.25,36,5.3,41.7,98.54,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/09/2020,3.4,0.9,2.2,-3.6,,0.66,0,0,28.8,217.13,50.4,12.2,53,94.84,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/10/2020,3.8,2.2,3,-3.8,,12.84,0,0,36,191.67,68.4,11.4,53.5,94.47,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/11/2020,3.4,1.1,2.1,-3,,1.48,0,0,21.6,223.33,43.2,36.5,44.8,90.1,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/12/2020,2.5,0.7,1.5,-3,,3.91,0,0,18,199.57,32.4,25.1,49.5,93.92,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/13/2020,1.5,-0.6,0.6,-3.6,,2.03,0,0,18,232.08,28.8,20.4,50.9,95.6,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/14/2020,-0.4,-4.1,-1.5,-6.2,,0,0,0,14.4,274.58,25.2,39.7,35.3,90.8,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",02/15/2020,2.3,-4.6,-0.4,-6.7,,2.07,0,0,25.2,201.25,50.4,26.2,46.1,94.95,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/16/2020,5.2,1.7,2.8,-4.2,,14.27,0,0,32.4,195.42,61.2,14.2,53.4,96.22,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/17/2020,6.1,1.8,4.3,-1.7,,9.58,0,0,32.4,238.26,61.2,25.2,51.3,88.38,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/18/2020,6.2,4.1,4.9,-1.2,,0.89,0,0,32.4,231.25,64.8,20.6,49.4,83.33,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/19/2020,4,0.8,2.9,-1.6,,0.08,0,0,18,247.92,36,33.9,50.7,83.18,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/20/2020,0.4,-3.2,-1.3,-8.2,,0,0,0,18,131.74,28.8,43.4,37.3,86.41,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",02/21/2020,2.9,0,1.7,-4.9,,3.09,0,0,28.8,196.25,61.2,24.5,52.6,90.61,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/22/2020,4.1,1.3,3.2,-4.6,,15.43,0,0,32.4,210,68.4,15,52.6,92.01,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/23/2020,3.5,0.8,2.2,-3.8,,0.64,0,0,28.8,257.5,61.2,43.4,42.7,80.66,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/24/2020,2.4,-1.2,0.6,-5.9,,0.15,0,0,28.8,294.58,54,43.2,25.7,68.4,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",02/25/2020,1,-6.6,-2.9,-10.2,,0,0,0,14.4,204.35,21.6,40,1.6,72.9,Clear
+"Lahti, Etelä-Suomi, Suomi",02/26/2020,-0.1,-6.9,-4,-11.7,,0,0,0,25.2,55.83,46.8,45.7,17,69.45,Clear
+"Lahti, Etelä-Suomi, Suomi",02/27/2020,-0.8,-9.1,-5.1,-14.4,,0,0,0,21.6,57.08,36,48.1,0.8,69.64,Clear
+"Lahti, Etelä-Suomi, Suomi",02/28/2020,-1.1,-9.9,-6.1,-15.3,,0,0,0,14.4,257.92,25.2,42.2,1.6,73.69,Clear
+"Lahti, Etelä-Suomi, Suomi",02/29/2020,-0.9,-12.2,-5.8,-16.6,,0.28,0,0,14.4,215.22,21.6,42,22.4,80.65,Rain
+"Lahti, Etelä-Suomi, Suomi",03/01/2020,1.6,-1.4,0.2,-4.7,,8.78,0,0,25.2,182.08,50.4,11.8,52.5,95.92,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/02/2020,4.7,0.1,2.5,-3.1,,2.42,0,0,21.6,206.25,39.6,16.2,47.3,94.58,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/03/2020,1.6,-0.6,0.5,-3.5,,0.72,0,0,14.4,63.04,28.8,11.7,38.1,97.72,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/04/2020,1.4,-0.1,0.5,-6.3,,8,0,0,28.8,106.82,64.8,14.6,53,96.65,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/05/2020,3.2,0.8,2,-3.2,,1.63,0,0,14.4,188.75,36,24.7,51.5,97.03,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/06/2020,2.8,-1.5,0.6,-4.6,,0.67,0,0,18,243.33,32.4,38.3,34.3,88.5,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/07/2020,4.1,-4.1,-0.5,-1.9,,0,0,0,7.2,138.95,18,24.2,29,90.84,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",03/08/2020,4.8,-4.9,0.1,-2.9,,0,0,0,14.4,196.52,25.2,31.1,20.6,84.79,Clear
+"Lahti, Etelä-Suomi, Suomi",03/09/2020,4.5,1.5,3.3,-2.5,,0.14,0,0,21.6,201.67,39.6,32.4,51.5,84.12,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/10/2020,3.6,2.6,3.1,-1.5,,5.17,0,0,21.6,198.33,36,12.6,53.2,94.89,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/11/2020,2.6,0.7,2,-2.7,,9.23,0,0,21.6,170.33,43.2,10.5,52.8,97.04,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/12/2020,5,0.5,2.1,-4.1,,3.45,0,0,18,213.22,36,25,48,93.48,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/13/2020,1.5,-3.8,0.1,-5.5,,1.48,0,0,21.6,304.79,43.2,36.4,42.1,81.41,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/14/2020,-1.1,-6.3,-3.8,,,0.02,0,0,,,,47.7,10.6,60.3,Rain
+"Lahti, Etelä-Suomi, Suomi",03/15/2020,5,-8.3,-0.8,,,0.11,0,0,,,,45.2,16.1,70.45,Rain
+"Lahti, Etelä-Suomi, Suomi",03/16/2020,4.1,-3.6,2.4,-6.6,,2.32,0,0,21.6,281.82,32.4,28.9,33.8,78.12,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/17/2020,3.7,-6.6,-0.4,-5.9,,0.41,0,0,25.2,236.25,50.4,34.4,30.9,81.4,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/18/2020,6,2.7,4.4,0,,2.77,0,0,14.4,224.17,32.4,26.3,51.1,86.21,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/19/2020,6.3,0.3,2.8,-3.9,,1.85,0,0,21.6,281.67,39.6,42.5,42.9,82.29,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/20/2020,1,-6.3,-1.1,-9.8,,0.28,0,0,21.6,255.83,36,47.7,12.4,59.98,Rain
+"Lahti, Etelä-Suomi, Suomi",03/21/2020,1.5,-7.4,-3,-10.9,,0.46,0,0,25.2,218.33,54,46.6,10.6,61.35,Rain
+"Lahti, Etelä-Suomi, Suomi",03/22/2020,2.6,-10.1,-3,-13.9,,0,0,0,18,176.25,28.8,48.5,0.3,55.91,Clear
+"Lahti, Etelä-Suomi, Suomi",03/23/2020,4,-4.4,0.2,-7.6,,0,0,0,21.6,210.83,43.2,47.4,29.7,68.04,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",03/24/2020,8.3,0.7,3.6,-3.9,,0.03,0,0,25.2,225.83,43.2,42.1,31.6,65.79,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",03/25/2020,10.7,2.7,6,-1.5,,0,0,0,28.8,230.83,54,40.5,17.4,49.55,Clear
+"Lahti, Etelä-Suomi, Suomi",03/26/2020,10.9,3.1,6.3,0.2,,0,0,0,18,223.04,36,34.4,37.6,58.78,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",03/27/2020,10,-0.9,4.5,-3.5,,0,0,0,14.4,208.33,32.4,27.4,25.7,62.15,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",03/28/2020,8.7,0.7,4.4,-4,,0,0,0,21.6,271.67,43.2,42,38.3,50.52,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",03/29/2020,1,-5.9,-1.6,-8.8,,0,0,0,21.6,334.58,36,48.1,11.9,45.43,Clear
+"Lahti, Etelä-Suomi, Suomi",03/30/2020,1.3,-8.2,-3.3,-10.4,,0,0,0,10.8,215.45,25.2,44.8,16.7,57.08,Clear
+"Lahti, Etelä-Suomi, Suomi",04/01/2020,4.4,-2.3,1.5,-5.1,,0.29,0,0,21.6,284.58,43.2,40,32.6,70.83,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/02/2020,6.7,-2.8,1.9,-5.7,,2.71,0,0,28.8,209.58,57.6,27.1,46.3,82.21,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/03/2020,3.6,-0.8,1.4,-5.8,,5.26,0,0,28.8,254.78,64.8,36,42.4,77.86,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/04/2020,4.3,-2.1,1,-6.1,,0,0,0,21.6,280,39.6,47.5,19.2,61.46,Clear
+"Lahti, Etelä-Suomi, Suomi",04/05/2020,4.8,-2.5,0.9,-6.5,,0,0,0,21.6,292.92,39.6,48.4,5.5,52.59,Clear
+"Lahti, Etelä-Suomi, Suomi",04/06/2020,6.4,-1.5,2.3,-2.6,,0.61,0,0,14.4,172.86,21.6,23.6,49.2,79.22,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/07/2020,15.6,0.8,7.6,-2.5,,3.66,0,0,25.2,220.64,46.8,25.8,14.5,67.61,Rain
+"Lahti, Etelä-Suomi, Suomi",04/08/2020,12.3,0.9,6.6,-2.4,,0,0,0,25.2,267.87,54,37.7,11.4,66.36,Clear
+"Lahti, Etelä-Suomi, Suomi",04/09/2020,8.2,2.8,5.8,-0.8,,0.23,0,0,25.2,280.83,64.8,42.5,33.3,59.87,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/10/2020,5.6,-1.4,1.8,-6.1,,0.1,0,0,25.2,318.33,46.8,44.5,28.7,67.31,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/11/2020,6.2,-2.1,1.5,-5.9,,0,0,0,21.6,310,39.6,47.3,14.7,63.39,Clear
+"Lahti, Etelä-Suomi, Suomi",04/12/2020,5.4,-3.2,1.4,-5.1,,6.38,0,0,28.8,173.91,50.4,20.7,44.4,90.16,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/13/2020,5.6,0,3.3,-3.5,,1.6,0,0,21.6,259.17,50.4,31.1,37,76.11,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/14/2020,2.9,-0.7,0.7,-4.2,,1.62,0,0,21.6,303.75,46.8,32.4,42.9,85.89,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/15/2020,4.5,-1.3,1.2,-4,,2.62,0,0,21.6,226.25,32.4,35.1,46.2,88.02,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/16/2020,6.5,0.3,2.4,-3,,8.08,0,0,28.8,216.67,57.6,32.3,40.3,85.68,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/17/2020,4.8,0.3,2.8,-4.4,,0,0,0,36,317.08,57.6,48.3,28.2,66.81,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",04/18/2020,7.3,1.5,4.2,-2.5,,0,0,0,28.8,328.75,54,49.3,39.6,57.24,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",04/19/2020,8,0.1,4.6,-4.1,,0,0,0,25.2,260.42,39.6,45.8,30.9,61.4,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",04/20/2020,10.9,3.6,7.1,0.8,,0,0,0,25.2,255.65,39.6,48.8,45.1,65.56,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",04/21/2020,14.4,1.5,8.5,-1.7,,0,0,0,25.2,267.5,39.6,47.1,6.3,53.78,Clear
+"Lahti, Etelä-Suomi, Suomi",04/22/2020,12.4,1.6,7.4,-0.7,,0,0,0,18,120,25.2,47.1,9.4,50.27,Clear
+"Lahti, Etelä-Suomi, Suomi",04/23/2020,11.2,-0.8,5.8,-1.8,,0,0,0,21.6,254.17,36,45.8,11.7,52.33,Clear
+"Lahti, Etelä-Suomi, Suomi",04/24/2020,7.9,1.8,5,-2,,0.12,0,0,25.2,303.04,43.2,46.1,39.1,59.5,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/25/2020,6.8,-2.5,2.5,-5.7,,0,0,0,21.6,285.42,43.2,48.3,18.8,53.18,Clear
+"Lahti, Etelä-Suomi, Suomi",04/26/2020,6.5,-0.9,3.2,-3.5,,0.05,0,0,18,301.67,36,49.1,36.2,58.65,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/27/2020,6.5,-1.1,3.4,-4.8,,0,0,0,21.6,315.22,43.2,48.4,30.3,56.16,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",04/28/2020,6.4,0.2,3.3,-3.1,,0.08,0,0,18,138.1,36,42.8,51.9,65.05,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/29/2020,4.5,-0.7,2.4,-3.8,,1.38,0,0,21.6,113.04,39.6,38.8,41.1,72.37,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",04/30/2020,5.7,-4.7,1.6,-7.9,,0,0,0,14.4,185,25.2,46.3,25.6,60.36,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",05/01/2020,9.5,-3.6,4.3,-6.6,,0,0,0,25.2,124.78,43.2,38.6,21.5,57.94,Clear
+"Lahti, Etelä-Suomi, Suomi",05/02/2020,14.5,4.8,9.3,1.5,,3.97,0,0,25.2,127.5,43.2,39.5,36.4,54.5,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/03/2020,11.2,6.2,8.9,4.8,,2.13,0,0,21.6,206.67,32.4,33.2,44.7,80.42,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/04/2020,13,5.7,8.5,3.6,,0.17,0,0,14.4,219.58,25.2,41.1,36.1,74.8,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/05/2020,16.3,0.8,9.6,,,0,0,0,14.4,223.33,25.2,38.6,17.7,60.72,Clear
+"Lahti, Etelä-Suomi, Suomi",05/06/2020,14.4,1.1,8.9,-1.2,,0,0,0,18,296.67,39.6,47.1,18.1,52.82,Clear
+"Lahti, Etelä-Suomi, Suomi",05/07/2020,11.6,2,7.5,-0.7,,0,0,0,21.6,325,43.2,46.1,16.3,49.97,Clear
+"Lahti, Etelä-Suomi, Suomi",05/08/2020,11.7,-0.3,7.4,-2.8,,0,0,0,21.6,252.08,39.6,46.9,23.8,52.6,Clear
+"Lahti, Etelä-Suomi, Suomi",05/09/2020,12,4.2,8.4,2.7,,0,0,0,25.2,284.17,46.8,41.8,18,53.23,Clear
+"Lahti, Etelä-Suomi, Suomi",05/10/2020,14.8,-1.3,8.2,2.4,,0,0,0,21.6,163.48,32.4,43.6,7,52.51,Clear
+"Lahti, Etelä-Suomi, Suomi",05/11/2020,10.3,0.4,4.5,-4.9,,11.32,0,0,25.2,267.83,43.2,29.9,48.5,85.71,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/12/2020,7.2,-1,3.3,-4.3,,0.08,0,0,18,240.83,39.6,45,30.2,73.97,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/13/2020,8,-2.4,3.5,-2.3,,0.9,0,0,21.6,171.9,43.2,33.4,19.7,74.63,Rain
+"Lahti, Etelä-Suomi, Suomi",05/14/2020,8.7,0,5,-2.4,,0.28,0,0,25.2,284.58,43.2,42.5,26.2,64.63,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/15/2020,7.6,0.1,4.1,-3.3,,3.5,0,0,14.4,237.08,36,45.1,36.1,64.36,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/16/2020,4.5,1.6,3.2,-1.6,,9,0,0,18,215.83,39.6,24.8,48.9,87.62,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/17/2020,9.1,0.9,5.4,-2.9,,1.1,0,0,18,265.83,32.4,48.4,21.7,67.55,Rain
+"Lahti, Etelä-Suomi, Suomi",05/18/2020,10.1,1.7,5.9,-1,,0.3,0,0,21.6,284.17,43.2,46.5,33.2,71.52,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/19/2020,9.7,0.4,6,-1.9,,1.92,0,0,18,266.96,36,44.9,25,70.33,Rain
+"Lahti, Etelä-Suomi, Suomi",05/20/2020,10.1,3.5,7.1,1.1,,0.73,0,0,28.8,310.83,54,43.8,37.3,73.32,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",05/21/2020,14.5,5,9.8,0.8,,0,0,0,32.4,283.91,57.6,46.4,23.7,48.12,Clear
+"Lahti, Etelä-Suomi, Suomi",05/22/2020,16.1,2.8,11,0.8,,0,0,0,21.6,124.58,36,46.6,6.5,43.46,Clear
+"Lahti, Etelä-Suomi, Suomi",05/23/2020,18.2,1.7,11.7,,,0,0,0,18,153.64,28.8,37.7,4.9,49.76,Clear
+"Lahti, Etelä-Suomi, Suomi",05/24/2020,16.9,7.5,12.4,5.6,,0,0,0,21.6,145.83,36,45.7,10.3,41.85,Clear
+"Lahti, Etelä-Suomi, Suomi",05/25/2020,18.7,7.1,13.7,5,,0,0,0,18,158.33,32.4,46.5,21,47.93,Clear
+"Lahti, Etelä-Suomi, Suomi",05/26/2020,22.2,5,15.4,4.8,,0,0,0,18,247.5,32.4,44.5,5.2,47.45,Clear
+"Lahti, Etelä-Suomi, Suomi",05/27/2020,21.4,6.5,15.1,5.1,,0,0,0,18,259.58,36,44.1,17.6,51.65,Clear
+"Lahti, Etelä-Suomi, Suomi",05/28/2020,16.9,10.6,13.6,,,0.03,0,0,18,278.7,36,48.2,23,54.72,Rain
+"Lahti, Etelä-Suomi, Suomi",05/29/2020,16.4,5.1,12.2,2.6,,0,0,0,18,337.92,32.4,46.8,14.5,52.85,Clear
+"Lahti, Etelä-Suomi, Suomi",05/30/2020,18.9,9.9,14.8,8.4,,0,0,0,28.8,55,57.6,46.5,11,47.4,Clear
+"Lahti, Etelä-Suomi, Suomi",05/31/2020,20,8.5,15.2,6.7,,0,0,0,25.2,29.17,50.4,46.3,6.1,47.17,Clear
+"Lahti, Etelä-Suomi, Suomi",06/01/2020,18.4,10.3,14.2,,,0,0,0,18,115.91,36,45.2,32.1,59.13,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",06/02/2020,18.8,6.4,13.6,5,,0,0,0,18,158.75,32.4,41.7,9.7,52.13,Clear
+"Lahti, Etelä-Suomi, Suomi",06/03/2020,19.2,4.6,13.7,2.9,,0,0,0,25.2,137.5,43.2,38.3,4.9,51.1,Clear
+"Lahti, Etelä-Suomi, Suomi",06/04/2020,19,7.2,13.4,5.5,,0.87,0,0,21.6,124.29,36,39,33.3,65.58,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/05/2020,14.1,10.9,12.3,,,7.33,0,0,18,235,32.4,17,49.8,94.34,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/06/2020,15.2,10.8,12.9,,,7.79,0,0,18,159.58,46.8,27.2,29.5,86.81,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/07/2020,19.2,9.8,14.5,7.2,,0,0,0,21.6,184.54,43.2,41.2,13.6,55.9,Clear
+"Lahti, Etelä-Suomi, Suomi",06/08/2020,19.1,10.4,14.4,,,3.39,0,0,18,190,28.8,37.3,40.1,80.09,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/09/2020,17.4,12.2,14.4,,,0.84,0,0,21.6,197.92,32.4,35.4,50.6,85,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/10/2020,23,11.8,17.8,,,0,0,0,21.6,174.17,39.6,40.5,13.1,58.91,Clear
+"Lahti, Etelä-Suomi, Suomi",06/11/2020,22.9,10.1,17.5,,,0,0,0,25.2,102.92,39.6,44.7,5.9,58.06,Clear
+"Lahti, Etelä-Suomi, Suomi",06/12/2020,22.8,10.2,17.7,,,0,0,0,25.2,72.5,43.2,42.8,1.4,53.54,Clear
+"Lahti, Etelä-Suomi, Suomi",06/13/2020,24.1,9,17.9,8.8,,0,0,0,18,133.04,32.4,41.8,7.2,55.42,Clear
+"Lahti, Etelä-Suomi, Suomi",06/14/2020,24.2,8.6,18.3,7.5,,0,0,0,18,132.17,36,39.4,0,52.12,Clear
+"Lahti, Etelä-Suomi, Suomi",06/15/2020,26.3,9.1,19.4,8.1,,0,0,0,18,130.42,36,40.5,2,56.36,Clear
+"Lahti, Etelä-Suomi, Suomi",06/16/2020,25,16.2,20.9,,,3.3,0,0,18,96.67,32.4,33.9,34.3,72.88,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/17/2020,26.1,16.8,21.7,,,0.15,0,0,14.4,136.52,25.2,28.5,24,73.77,Rain
+"Lahti, Etelä-Suomi, Suomi",06/18/2020,24.5,17.6,20.4,,,14.16,0,0,10.8,167.83,25.2,29.7,26.8,76.12,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",06/19/2020,25,12.6,19.8,,,0,0,0,18,86.96,36,37.3,9.4,68.27,Clear
+"Lahti, Etelä-Suomi, Suomi",06/20/2020,24.2,14.6,19.9,,,0,0,0,21.6,90,39.6,39.3,5.9,62.13,Clear
+"Lahti, Etelä-Suomi, Suomi",06/21/2020,21.6,11.6,17.6,,,0,0,0,14.4,83.75,32.4,42.9,3.6,53.36,Clear
+"Lahti, Etelä-Suomi, Suomi",06/22/2020,23.2,8,17.1,7.8,,0,0,0,14.4,163.91,28.8,40.4,0.4,57.1,Clear
+"Lahti, Etelä-Suomi, Suomi",06/23/2020,27,10.3,20.3,,26.4,0,0,0,18,178,28.8,40.1,3.5,56.05,Clear
+"Lahti, Etelä-Suomi, Suomi",06/24/2020,28.8,13.4,22.4,,27.7,0,0,0,14.4,190,25.2,37.2,3.3,55.61,Clear
+"Lahti, Etelä-Suomi, Suomi",06/25/2020,30.4,14.8,24,,28.8,0,0,0,14.4,276.52,28.8,39.7,0,50.01,Clear
+"Lahti, Etelä-Suomi, Suomi",06/26/2020,28.2,15.7,23,,27.3,0,0,0,21.6,227.89,39.6,40.7,0,46.99,Clear
+"Lahti, Etelä-Suomi, Suomi",06/27/2020,29,16.3,23.4,,27.9,0,0,0,21.6,216.36,32.4,41.8,3,49.11,Clear
+"Lahti, Etelä-Suomi, Suomi",06/28/2020,25,16.8,21.1,,,0,0,0,18,102.33,32.4,37,14.2,60.84,Clear
+"Lahti, Etelä-Suomi, Suomi",06/29/2020,22.3,14.9,18.6,,,0.48,0,0,21.6,120.83,36,38,16.8,55.02,Rain
+"Lahti, Etelä-Suomi, Suomi",06/30/2020,16.1,12.7,14.5,,,39.15,0,0,28.8,240.42,50.4,11.5,50.8,96.09,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/01/2020,16.7,12.8,14.9,,,17.48,0,0,21.6,222.08,46.8,31.5,42.8,85.44,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/02/2020,19.4,8.2,14.5,,,2.68,0,0,14.4,221.36,28.8,40.4,32.3,71.19,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/03/2020,19.5,13.1,16.2,,,0.97,0,0,21.6,222.08,43.2,34.1,27.3,72.32,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/04/2020,16.6,10.7,14.1,,,7.47,0,0,21.6,208.75,43.2,33.6,43,83.76,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/05/2020,17.9,12.1,14.9,,,18.49,0,0,28.8,175.83,61.2,28.2,44.6,83.78,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/06/2020,17.2,13.6,16,,,3.07,0,0,32.4,224.17,64.8,31.1,32.8,76.05,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/07/2020,16.7,12.3,14.4,,,0.76,0,0,21.6,207.92,46.8,36.6,35.2,78.8,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/08/2020,19.3,9.3,14,,,1.28,0,0,18,190.63,36,36.2,19.6,77.01,Rain
+"Lahti, Etelä-Suomi, Suomi",07/09/2020,16,9,12.7,8,,2.24,0,0,25.2,217.39,39.6,42.9,25.4,76.33,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/10/2020,17.5,9,13.7,8.1,,2,0,0,21.6,194.58,32.4,40.6,28.6,77.18,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/11/2020,14.2,10.2,12.4,,,20.14,0,0,28.8,184.17,43.2,24.6,50.6,94.1,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/12/2020,19.3,9.6,14.1,8.9,,1.72,0,0,21.6,223.33,36,42.5,17.9,79.5,Rain
+"Lahti, Etelä-Suomi, Suomi",07/13/2020,17.2,8.6,13,7.5,,2.76,0,0,14.4,243.91,28.8,34.9,29.8,82.88,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/14/2020,19.6,9,14.5,7.3,,1.47,0,0,18,242.5,32.4,43.7,20.5,72.8,Rain
+"Lahti, Etelä-Suomi, Suomi",07/15/2020,21.6,8.5,16.2,,,0,0,0,10.8,212.27,21.6,35.7,11.9,68.41,Clear
+"Lahti, Etelä-Suomi, Suomi",07/16/2020,22.8,9.6,17.3,,,0,0,0,21.6,277.92,39.6,42.2,8.2,67.07,Clear
+"Lahti, Etelä-Suomi, Suomi",07/17/2020,25,10.6,19.1,,,0,0,0,14.4,280.83,28.8,40.6,3.3,66.83,Clear
+"Lahti, Etelä-Suomi, Suomi",07/18/2020,25.6,13.3,20.5,,,0,0,0,18,235.22,32.4,36.2,3.9,64.96,Clear
+"Lahti, Etelä-Suomi, Suomi",07/19/2020,25.6,13,20.4,,,0,0,0,18,211.43,25.2,39.1,5.6,66.46,Clear
+"Lahti, Etelä-Suomi, Suomi",07/20/2020,24.7,17,20.6,,,2.87,0,0,10.8,253.91,21.6,31.1,56.8,72.59,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/21/2020,22.3,15,18.9,,,2.96,0,0,18,210,32.4,26.6,52.2,79.19,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/22/2020,18.3,12.7,15.4,,,0.05,0,0,25.2,300.83,46.8,44.9,48.6,74.8,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/23/2020,14.1,11.5,12.8,,,0.26,0,0,18,270.83,39.6,37.2,50.8,80.53,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/24/2020,13.2,10.6,11.6,,,6.25,0,0,21.6,185.42,46.8,35.9,48.2,87.61,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/25/2020,16.6,11.5,13.9,,,6.01,0,0,14.4,184.17,36,26.9,47.9,92.83,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/26/2020,22.4,9.1,16,,,0,0,0,18,181.3,28.8,32,20.3,76.52,Clear
+"Lahti, Etelä-Suomi, Suomi",07/27/2020,23.2,10.2,17.5,,,0,0,0,18,114.09,32.4,31.4,3.9,69.2,Clear
+"Lahti, Etelä-Suomi, Suomi",07/28/2020,19.3,15.2,17.1,,,7.69,0,0,10.8,132.92,25.2,22.6,45.5,90.24,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/29/2020,18.3,13.2,16,,,8.96,0,0,14.4,173.75,54,16.1,35.5,94.51,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/30/2020,18.9,11.2,15.2,,,3.05,0,0,18,203,32.4,31.5,31.9,84.76,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",07/31/2020,19.6,11.4,15.7,,,0,0,0,25.2,255,39.6,36.3,19.7,77.68,Clear
+"Lahti, Etelä-Suomi, Suomi",08/01/2020,20.5,9.6,15.3,8.7,,0,0,0,21.6,217.08,36,41.6,16.2,71.87,Clear
+"Lahti, Etelä-Suomi, Suomi",08/02/2020,19.9,10.9,15.2,,,3.47,0,0,14.4,225.22,32.4,28.4,41.6,87.12,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/03/2020,19.6,13.9,16.6,,,6.77,0,0,14.4,204.58,28.8,27.2,39.2,88.06,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/04/2020,20.2,11.3,15.8,,,0.12,0,0,14.4,185.42,21.6,27.1,35.4,86.1,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/05/2020,20.6,12.9,16.6,,,0.19,0,0,14.4,275.65,28.8,36.9,27.9,75.27,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/06/2020,19.5,11.6,16.2,,,0.04,0,0,14.4,211.67,32.4,37.2,45.7,85.14,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/07/2020,24.7,13.8,19.1,,,0,0,0,18,235.91,25.2,27.9,20.9,82.44,Clear
+"Lahti, Etelä-Suomi, Suomi",08/08/2020,27.6,14.2,21.2,,27.4,0,0,0,14.4,240.48,21.6,32.8,0.2,70.36,Clear
+"Lahti, Etelä-Suomi, Suomi",08/09/2020,26.9,14.3,21,,27.5,2.93,0,0,14.4,270.87,32.4,37.7,9,70.21,Rain
+"Lahti, Etelä-Suomi, Suomi",08/10/2020,20.6,13,17.3,,,0,0,0,28.8,295.83,43.2,43.3,6.5,62.3,Clear
+"Lahti, Etelä-Suomi, Suomi",08/11/2020,17.3,10.5,14.1,,,0,0,0,25.2,196.67,43.2,45,32.8,67.43,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",08/12/2020,17.1,8.6,13.4,7.7,,0.2,0,0,10.8,275,18,46.4,47.1,71.23,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/13/2020,18.6,8.8,14.3,9.1,,2.72,0,0,18,124.29,28.8,32.8,21.5,73.04,Rain
+"Lahti, Etelä-Suomi, Suomi",08/14/2020,20.6,7.2,14.5,6,,0,0,0,18,179.17,25.2,30,32.9,80.44,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",08/15/2020,24,13.8,18.9,,,0,0,0,14.4,234.58,25.2,37.7,19.8,76.17,Clear
+"Lahti, Etelä-Suomi, Suomi",08/16/2020,23.2,14.1,18.9,,,0,0,0,18,301.25,36,38.4,2.9,66.26,Clear
+"Lahti, Etelä-Suomi, Suomi",08/17/2020,20.5,6.8,14.4,5.8,,0,0,0,18,330.45,36,37.5,0.7,68.64,Clear
+"Lahti, Etelä-Suomi, Suomi",08/18/2020,22.6,5.8,14.9,5.2,,0,0,0,14.4,163.33,21.6,33.6,4,70.53,Clear
+"Lahti, Etelä-Suomi, Suomi",08/19/2020,23.9,12.6,17.8,,,0,0,0,14.4,132.94,25.2,33.3,19.5,75.54,Clear
+"Lahti, Etelä-Suomi, Suomi",08/20/2020,24.3,10.3,17.6,,,0,0,0,14.4,131.74,25.2,28.4,3.8,72.71,Clear
+"Lahti, Etelä-Suomi, Suomi",08/21/2020,24.5,10.1,17.8,,,0,0,0,18,130.87,28.8,25.4,3,73.11,Clear
+"Lahti, Etelä-Suomi, Suomi",08/22/2020,17.1,16.2,16.8,,,17.8,0,0,21.6,167.5,39.6,17.3,47.2,92.57,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/23/2020,21.8,15.8,18.7,,,1.49,0,0,18,214.17,43.2,23.9,29.7,79.99,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/24/2020,18.9,11.8,16,,,10.73,0,0,18,232.38,39.6,34.4,31.5,81.55,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/25/2020,17.5,7,12.8,8.9,,0.14,0,0,14.4,184.55,25.2,32.8,27.4,83.65,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/26/2020,17.8,7.7,12.6,7.2,,0.14,0,0,14.4,259.55,28.8,40.1,9.6,77.47,Rain
+"Lahti, Etelä-Suomi, Suomi",08/27/2020,16.9,5.8,11.3,3.9,,0,0,0,18,162.17,32.4,44,19.6,80.03,Clear
+"Lahti, Etelä-Suomi, Suomi",08/28/2020,17.2,6,11.6,4.5,,0,0,0,18,221.67,28.8,43.9,14.6,81.15,Clear
+"Lahti, Etelä-Suomi, Suomi",08/29/2020,17.3,5,11.8,3.7,,0.1,0,0,14.4,162.5,25.2,32.6,18.7,81.67,Rain
+"Lahti, Etelä-Suomi, Suomi",08/30/2020,13.8,11,12.5,,,14.16,0,0,14.4,80.83,28.8,22.8,52.4,95.92,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",08/31/2020,13.4,9.8,12.3,7.8,,1.37,0,0,18,191.67,28.8,31.1,50.2,92.71,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/01/2020,18.4,6.6,12.3,3.9,,0,0,0,18,101.3,28.8,39.3,3.3,76.78,Clear
+"Lahti, Etelä-Suomi, Suomi",09/02/2020,16.6,4.9,11.6,3.3,,0,0,0,21.6,108.33,36,32.8,21.7,80.66,Clear
+"Lahti, Etelä-Suomi, Suomi",09/03/2020,16.4,12,14.4,,,0.85,0,0,21.6,97.08,32.4,35.6,46.7,90.54,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/04/2020,17.2,14.4,15.6,,,3.86,0,0,21.6,183.75,43.2,26.4,48.6,90.18,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/05/2020,16.6,12,14.4,,,10.6,0,0,21.6,202.08,46.8,24.4,46.8,90.18,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/06/2020,16.1,11,13.1,,,3.96,0,0,18,209.38,36,32.5,34.5,87.27,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/07/2020,16,7.2,11.8,6.1,,0.61,0,0,14.4,203.75,28.8,36.3,8.9,84.5,Rain
+"Lahti, Etelä-Suomi, Suomi",09/08/2020,13.2,6.1,10.2,,,8.79,0,0,21.6,194.12,39.6,22.2,32.1,95.39,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/09/2020,15.3,9.7,12.3,9.2,,4.56,0,0,18,232.17,36,35.5,41.5,91.06,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/10/2020,13.3,10,11.8,7.2,,5.45,0,0,36,279.17,68.4,38,41.8,81.88,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/11/2020,13.4,7.5,10,5.1,,0.26,0,0,18,263.75,39.6,44.8,23.6,80.08,Rain
+"Lahti, Etelä-Suomi, Suomi",09/12/2020,14,8.6,11.8,7.6,,8.94,0,0,25.2,206.25,50.4,27.1,51.3,91.36,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/13/2020,15.7,9.1,12.2,7.4,,3.94,0,0,21.6,254.17,46.8,40,27.2,76.06,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/14/2020,16.5,6.5,11.3,4.8,,0,0,0,18,275,32.4,37,4.1,77.22,Clear
+"Lahti, Etelä-Suomi, Suomi",09/15/2020,15.7,7.2,10.7,6.6,,0,0,0,14.4,288.95,25.2,41.4,14.3,79.15,Clear
+"Lahti, Etelä-Suomi, Suomi",09/16/2020,15.1,8.2,11.9,7.6,,2.26,0,0,21.6,176.25,36,12.9,48.2,95.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/17/2020,9.5,6.4,7.7,2.5,,4.76,0,0,50.4,323.75,79.2,21.8,52,88.07,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/18/2020,14.5,5.1,9.6,1.5,,0,0,0,25.2,302.08,54,47.7,16.6,72.4,Clear
+"Lahti, Etelä-Suomi, Suomi",09/19/2020,13.2,6.8,9.8,5.1,,0.02,0,0,21.6,303.33,39.6,45.2,11.5,73.91,Rain
+"Lahti, Etelä-Suomi, Suomi",09/20/2020,14.3,4,9.2,2.3,,0,0,0,18,267.92,32.4,43.3,17.7,80.86,Clear
+"Lahti, Etelä-Suomi, Suomi",09/21/2020,14,8.6,11.8,7.6,,8.94,0,0,25.2,206.25,50.4,27.1,51.3,91.36,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/22/2020,15.7,9.1,12.2,7.4,,3.94,0,0,21.6,254.17,46.8,40,27.2,76.06,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/23/2020,16.5,6.5,11.3,4.8,,0,0,0,18,275,32.4,37,4.1,77.22,Clear
+"Lahti, Etelä-Suomi, Suomi",09/24/2020,15.7,7.2,10.7,6.6,,0,0,0,14.4,288.95,25.2,41.4,14.3,79.15,Clear
+"Lahti, Etelä-Suomi, Suomi",09/25/2020,15.1,8.2,11.9,7.6,,2.26,0,0,21.6,176.25,36,12.9,48.2,95.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/26/2020,9.5,6.4,7.7,2.5,,4.76,0,0,50.4,323.75,79.2,21.8,52,88.07,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",09/27/2020,14.5,5.1,9.6,1.5,,0,0,0,25.2,302.08,54,47.7,16.6,72.4,Clear
+"Lahti, Etelä-Suomi, Suomi",09/28/2020,13.2,6.8,9.8,5.1,,0.02,0,0,21.6,303.33,39.6,45.2,11.5,73.91,Rain
+"Lahti, Etelä-Suomi, Suomi",09/29/2020,14.3,4,9.2,2.3,,0,0,0,18,267.92,32.4,43.3,17.7,80.86,Clear
+"Lahti, Etelä-Suomi, Suomi",09/30/2020,13.9,8.3,11.8,7.2,,0,0,0,21.6,250,39.6,44.8,24.8,76.59,Clear
+"Lahti, Etelä-Suomi, Suomi",10/01/2020,16.5,7.5,11.4,5.6,,0,0,0,14.4,63.75,25.2,22.6,24.3,85.81,Clear
+"Lahti, Etelä-Suomi, Suomi",10/02/2020,16.3,6.7,10.8,5.3,,0,0,0,18,71.25,28.8,18.2,17.9,85.35,Clear
+"Lahti, Etelä-Suomi, Suomi",10/03/2020,16.1,6.5,11.2,3.7,,0,0,0,21.6,87.08,43.2,21.3,17.9,80.91,Clear
+"Lahti, Etelä-Suomi, Suomi",10/04/2020,12.9,10.7,12.1,,,4.46,0,0,25.2,111.04,50.4,18.5,49.3,84.67,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/05/2020,17.2,9.6,13.2,8.7,,0.65,0,0,18,150,36,22,29.5,87.66,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/06/2020,13.6,11,13,,,7.74,0,0,21.6,141.67,39.6,16.7,51.5,92.85,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/07/2020,14.4,10.6,12.1,,,0.03,0,0,14.4,143.33,28.8,20.2,43.4,92.48,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/08/2020,13.5,11.4,12.2,,,6.32,0,0,18,170.83,39.6,17.6,47.2,94.08,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/09/2020,12.1,9.4,11.3,7.7,,4.62,0,0,21.6,184.17,46.8,23.4,48.2,92.82,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/10/2020,13,7.1,9.5,5.3,,0,0,0,14.4,204.58,32.4,35,29.6,86.84,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",10/11/2020,11.8,5.4,9.2,7.1,,5.23,0,0,14.4,185.65,21.6,21.8,47.4,94.94,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/12/2020,10.8,3.8,6.8,6.5,,3.52,0,0,14.4,166.67,32.4,21.8,33.5,95.49,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/13/2020,9,5,6.9,3.3,,4.37,0,0,10.8,206.09,18,29,45.6,93.33,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/14/2020,8.1,4,6.1,2,,0.54,0,0,18,160.83,28.8,39.7,45.1,92.62,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/15/2020,5.8,1.9,4.1,-3.1,,0.02,0,0,25.2,220,36,46.7,35.1,86.11,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/16/2020,5.4,-0.3,3.1,-2.9,,0,0,0,14.4,328.75,28.8,47.1,27.4,83.38,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",10/17/2020,6.9,-1.6,3.4,-4.4,,0.14,0,0,14.4,239.57,32.4,42.6,35.5,89.46,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/18/2020,6.6,0.7,3.8,-2.7,,7.08,0,0,14.4,260.83,43.2,37.3,42.3,89.69,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/19/2020,1.9,0.1,0.8,-3.6,,2.63,0,0,14.4,288.83,28.8,34.8,47.9,92.72,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/20/2020,2.1,-2,0.4,-3.6,,0.5,0,0,14.4,289.09,25.2,40.4,41.7,87.19,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/21/2020,6,-1.8,2.3,-3.8,,4.29,0,0,18,118.26,32.4,18.8,51.8,95.63,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/22/2020,8.6,6.4,8.1,3.6,,15.21,0,0,21.6,177.5,39.6,9.8,50.4,98.05,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/23/2020,9.9,1.1,6.7,-2.1,,8.35,0,0,21.6,272.5,43.2,28.9,50.3,94.71,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/24/2020,4.9,-0.7,1.3,-4.2,,0.37,0,0,14.4,210,21.6,38.8,30.2,90.71,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/25/2020,6.2,-0.9,2.4,-3.3,,0.19,0,0,14.4,170.45,25.2,28.1,40.5,93.27,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/26/2020,10.2,6.8,9.3,4,,1.08,0,0,25.2,180.88,39.6,13.1,53.1,94.75,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/27/2020,11.4,9,10.3,6.8,,3.74,0,0,25.2,184.63,43.2,8,52.8,97.05,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/28/2020,10.3,7.6,8.8,4.8,,6.41,0,0,25.2,217.71,39.6,27.8,43.9,91.96,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/29/2020,10.3,7.8,8.9,5.2,,1.63,0,0,21.6,199.17,39.6,21.4,45.7,93.5,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/30/2020,9.2,5.2,7.4,3.7,,0.03,0,0,7.2,208.64,14.4,11.4,46,96.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",10/31/2020,6.2,3.5,4.8,1.2,,0,0,0,10.8,230,10.8,15,39.8,97.21,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",11/01/2020,8.1,6.3,7.4,4.4,,0.3,0,0,18,169.13,36,24.3,52.6,91.1,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/01/2020,8,5.6,6.7,0.9,,0.66,0,0,32.4,167.89,57.6,35.3,54.9,83.87,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/02/2020,11.6,8.4,10,4.5,,5.96,0,0,32.4,218.75,57.6,28.3,49.7,90.13,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/03/2020,8.6,3.9,6.6,1.4,,3.07,0,0,18,224.55,36,30.4,38.5,92.9,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/04/2020,7.6,3.8,6,1.2,,0.02,0,0,25.2,257.08,54,41.2,31,84,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/05/2020,9.9,6.3,8,3.4,,0,0,0,21.6,280.87,43.2,31.3,9.6,70.47,Clear
+"Lahti, Etelä-Suomi, Suomi",11/06/2020,11,6,8.4,4.1,,0.07,0,0,18,270,39.6,48.1,19.7,80,Rain
+"Lahti, Etelä-Suomi, Suomi",11/07/2020,7.2,0.3,3.3,-2.6,,0.03,0,0,18,317.08,28.8,41.9,14.3,82.23,Rain
+"Lahti, Etelä-Suomi, Suomi",11/08/2020,6.1,-0.3,3,-3.9,,0.14,0,0,18,279.58,32.4,39.7,20.1,88.95,Rain
+"Lahti, Etelä-Suomi, Suomi",11/09/2020,1.8,-1.1,0,-4.2,,0,0,0,10.8,286.09,14.4,21.4,19.6,97.11,Clear
+"Lahti, Etelä-Suomi, Suomi",11/10/2020,4.4,-0.2,1.7,1.1,,1.7,0,0,7.2,240,10.8,8,52.5,98.17,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/11/2020,6.2,4,5.3,0.7,,0.36,0,0,14.4,198.33,25.2,18.8,52.8,94.4,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/12/2020,4.2,3.5,3.9,0,,0,0,0,18,167.92,32.4,28.1,53.6,82.92,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",11/13/2020,3.5,2.5,3.2,-0.8,,0.31,0,0,14.4,167.92,32.4,17,53.2,89.93,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/14/2020,3.7,2,2.7,-2.1,,0.05,0,0,18,167.5,32.4,18.5,50.6,89.72,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/15/2020,3.6,2.4,3,-1.7,,0.21,0,0,18,157.14,36,11.5,53.5,92.6,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/16/2020,5.9,4,4.6,0,,3.62,0,0,25.2,177.92,39.6,14.7,53.7,96.51,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/17/2020,10.5,6.4,7.9,2,,14.88,0,0,36,224.5,57.6,24.8,48,95.49,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/18/2020,10.7,2.5,8.3,-2.2,,15.9,0,0,36,228.33,90,19.1,51.6,91.16,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/19/2020,1.7,-1.6,0,-6.2,,1.76,0,0,18,289.17,36,37.9,40.5,91.3,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/20/2020,4.3,-3.4,0,-5.5,,6.82,0,0,36,221.82,72,35.2,34.7,93.9,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/21/2020,5.4,4.4,4.8,0.3,,5.66,0,0,25.2,227.08,57.6,33.9,48.5,91.18,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/22/2020,4.9,2.7,3.8,-0.5,,0.61,0,0,14.4,253.75,28.8,40.8,43.9,89.1,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/23/2020,3.1,-1.7,1.5,-2.5,,0.16,0,0,18,296.5,39.6,45.1,45.6,88.35,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/24/2020,4.8,-2.6,-0.5,-5.5,,4.56,0,0,18,117.5,28.8,23,49,97.37,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/25/2020,6.7,0.4,4.6,-3.4,,1.02,0,0,18,270.88,39.6,32.3,48.3,93.93,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/26/2020,0.6,-0.6,0.1,-6,,0.02,0,0,25.2,267.54,39.6,40.8,51.1,88.24,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/27/2020,0.9,-0.1,0.4,-4.4,,0.07,0,0,14.4,37.5,28.8,44.2,53,88.55,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/28/2020,0.7,-1,0.1,-5.9,,0.74,0,0,18,57.92,25.2,24.8,52.7,92.28,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/29/2020,0.4,-1,-0.3,-5.4,,1.8,0,0,14.4,87.5,25.2,14.5,51.6,95.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",11/30/2020,3.5,-0.5,1.6,-4.9,,2.93,0,0,14.4,199.17,36,25.1,51.1,96.21,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/01/2020,2.9,-0.2,1.8,-5.2,,1.35,0,0,18,205.42,32.4,17.8,47.7,94.05,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/02/2020,-0.1,-1.3,-0.8,-6.2,,0.56,0,0,18,159.17,28.8,35.1,52.2,85.97,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/03/2020,1.5,-0.5,0.4,-5.3,,1.35,0,0,25.2,151.67,50.4,21.2,53,89.53,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/04/2020,3.4,1.6,2.6,-3.9,,0.32,0,0,25.2,169.17,39.6,13.2,53.3,94.06,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/05/2020,3.3,2.5,2.9,-1.7,,0,0,0,18,175.42,32.4,9.5,53.7,95.53,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",12/06/2020,2.7,-1.1,1,-6,,0,0,0,21.6,167.5,39.6,32.9,13.2,76.75,Clear
+"Lahti, Etelä-Suomi, Suomi",12/07/2020,-1,-2.7,-1.9,-7.1,,0,0,0,18,153.33,36,28.2,3.1,80.86,Clear
+"Lahti, Etelä-Suomi, Suomi",12/08/2020,-2.1,-3.9,-2.8,-9.1,,0.02,0,0,21.6,156.71,32.4,29.1,24.9,81.09,Rain
+"Lahti, Etelä-Suomi, Suomi",12/09/2020,-2.4,-6.9,-3.7,-9.6,,0,0,0,14.4,127.08,21.6,21.4,36.9,91.14,Partially cloudy
+"Lahti, Etelä-Suomi, Suomi",12/10/2020,-2.7,-4.2,-3.5,-8.8,,0.19,0,0,14.4,117.5,25.2,18,49.7,90.26,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/11/2020,0.8,-3,-0.6,-5.9,,1.08,0,0,18,121.67,32.4,8,49,96.53,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/12/2020,-1.1,-2.4,-2,-7.8,,0.07,0,0,18,161.67,28.8,21.6,53.4,90.97,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/13/2020,-2.3,-2.6,-2.4,-5.3,,0.11,0,0,7.2,70.87,14.4,10.4,53,95.47,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/14/2020,1.2,-2.3,-0.7,-5.1,,0.16,0,0,18,132.67,28.8,7.7,51.8,96.13,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/15/2020,2.8,0.3,1.3,-4,,9.98,0,0,14.4,219.17,32.4,6.5,52.2,97.69,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/16/2020,2.1,-1.1,0.2,-4.8,,0.21,0,0,21.6,266.67,39.6,26.6,51.1,94.96,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/17/2020,0.7,-0.9,0.3,-3.5,,5.16,0,0,14.4,127.21,28.8,7.6,53.4,97.44,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/18/2020,4,0.1,1.1,-2.2,,0.95,0,0,10.8,213.33,25.2,6.3,38.1,98.62,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/19/2020,5.2,3.8,4.7,0.4,,0.66,0,0,18,229.17,39.6,10,52.2,97.28,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/20/2020,3.9,2,2.9,-2.4,,1.89,0,0,18,212.5,39.6,5.9,53.8,97.87,"Rain, Partially cloudy"
+"Lahti, Etelä-Suomi, Suomi",12/21/2020,4.2,2.1,3.6,-1.7,,2.08,0,0,18,197.92,36,11.8,51.3,97.53,"Rain, Partially cloudy"
