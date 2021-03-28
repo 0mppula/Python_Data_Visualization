@@ -1,6 +1,6 @@
-# Python Data Visualization Exercises from Python Crash Course by: Eric Matthes
+# Python Data Visualization Exercises from the E-Book Python Crash Course by: Eric Matthes
 
-## Chapter 15 Generating Data
+### Chapter 15 Generating Data
 
 -   [x] 15-1. Cubes
 -   [x] 15-2. Colored Cubes
@@ -12,3 +12,5 @@
 -   [x] 15-8. Three Dice
 -   [x] 15-9. Multiplication
 -   [x] 15-10. Practicing with Both Libraries
+
+### Chapter 16 Generating Data

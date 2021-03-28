@@ -16,7 +16,7 @@ def str_to_date(string):
 
 
 # Get dates and high and low tempratures from file
-data_file = './data/sitka_weather_07-2014.csv'
+data_file = './downloading_data/data/sitka_weather_2014.csv'
 
 with open(data_file) as f:
     reader = csv.reader(f)
@@ -39,11 +39,12 @@ with open(data_file) as f:
 fig = plt.figure(dpi=110, figsize=(10, 6))
 plt.plot(dates, highs, c='red')
 
-plt.title('Daily High In Sitka Tempratures, July 2014', fontsize=20)
+plt.title('Daily High Tempratures In Sitka - 2014', fontsize=20)
 plt.xlabel('', fontsize=14)
 plt.ylabel('Temperature (C)', fontsize=14)
 plt.tick_params(axis='both', which='major', labelsize=14)
-plt.locator_params(axis='x', nbins=10)
+
+plt.margins(x=0.0)
 fig.autofmt_xdate()
 
 plt.show()
