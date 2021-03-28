@@ -14,3 +14,8 @@
 -   [x] 15-10. Practicing with Both Libraries
 
 ### Chapter 16 Downloading Data
+
+-   [x] 16-1. San Francisco
+-   [x] 16-2. Sitka-Death Valley Comparison
+-   [ ] 16-3. Rainfall
+-   [ ] 16-4. Explore
