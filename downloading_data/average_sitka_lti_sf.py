@@ -21,7 +21,10 @@ def get_avg_temp_data(filename, date_list, mean_temp_list):
                 print(f'{date} missing data.')
 
             else:
-                date_list.append(date)
+                if date in dates:
+                    pass
+                else:
+                    date_list.append(date)
                 mean_temp_list.append(mean_temp)
 
 
@@ -30,24 +33,21 @@ lahti = './downloading_data/data/lahti_weather_2020.csv'
 san_francisco = './downloading_data/data/san_francisco_weather_2020.csv'
 sitka = './downloading_data/data/sitka_weather_2020.csv'
 
-
-lahti_dates = []
-san_francisco_dates = []
-sitka_dates = []
+dates = []
 lahti_temps = []
 san_francisco_temps = []
 sitka_temps = []
 
-get_avg_temp_data(san_francisco, san_francisco_dates, san_francisco_temps)
-get_avg_temp_data(lahti, lahti_dates, lahti_temps)
-get_avg_temp_data(sitka, sitka_dates, sitka_temps)
+get_avg_temp_data(san_francisco, dates, san_francisco_temps)
+get_avg_temp_data(lahti, dates, lahti_temps)
+get_avg_temp_data(sitka, dates, sitka_temps)
 
 # Plot all data in a matplotlib chart
 fig = plt.figure(dpi=110, figsize=(10, 6))
-plt.plot(san_francisco_dates, san_francisco_temps,
+plt.plot(dates, san_francisco_temps,
          c='red', alpha=0.75, label='San Francisco')
-plt.plot(lahti_dates, lahti_temps, c='blue', alpha=0.75, label='Lahti')
-plt.plot(sitka_dates, sitka_temps, c='green', alpha=0.75, label='Sitka')
+plt.plot(dates, lahti_temps, c='blue', alpha=0.75, label='Lahti')
+plt.plot(dates, sitka_temps, c='green', alpha=0.75, label='Sitka')
 
 title = 'Average Daily Temperatures in 2020'
 plt.title(title, fontsize=20)
