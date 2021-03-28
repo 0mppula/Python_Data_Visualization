@@ -26,9 +26,9 @@ def get_avg_temp_data(filename, date_list, mean_temp_list):
 
 
 # Get date and average temperature data from csv files
-lahti = './data/lahti_weather_2020.csv'
-san_francisco = './data/san_francisco_weather_2020.csv'
-sitka = './data/sitka_weather_2020.csv'
+lahti = './downloading_data/data/lahti_weather_2020.csv'
+san_francisco = './downloading_data/data/san_francisco_weather_2020.csv'
+sitka = './downloading_data/data/sitka_weather_2020.csv'
 
 
 lahti_dates = []
@@ -59,5 +59,5 @@ plt.margins(x=0, y=0.1)
 fig.autofmt_xdate()
 plt.legend()
 
-plt.savefig('./images/average_temps_2020.png')
+plt.savefig('./downloading_data/images/average_temps_2020.png')
 plt.show()

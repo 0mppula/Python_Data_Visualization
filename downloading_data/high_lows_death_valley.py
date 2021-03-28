@@ -16,7 +16,7 @@ def str_to_date(string):
 
 
 # Get dates and high and low tempratures from file
-data_file = './data/death_valley_2014.csv'
+data_file = './downloading_data/data/death_valley_2014.csv'
 
 with open(data_file) as f:
     reader = csv.reader(f)
@@ -58,5 +58,5 @@ plt.margins(x=0, y=0.1)
 fig.autofmt_xdate()
 plt.legend()
 
-plt.savefig('./images/high_low_death_valley.png')
+plt.savefig('./downloading_data/images/high_low_death_valley.png')
 plt.show()

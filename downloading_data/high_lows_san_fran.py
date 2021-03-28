@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # Get dates and high and low temperatures form csv file
-data_file = './data/san_francisco_weather_2020.csv'
+data_file = './downloading_data/data/san_francisco_weather_2020.csv'
 
 with open(data_file) as f:
     reader = csv.reader(f)
@@ -44,5 +44,6 @@ plt.margins(x=0, y=0.1)
 fig.autofmt_xdate()
 plt.legend()
 
-plt.savefig('./images/high_low_san_fran.png', bbox_inches='tight')
+plt.savefig('./downloading_data/images/high_low_san_fran.png',
+            bbox_inches='tight')
 plt.show()
