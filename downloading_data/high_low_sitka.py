@@ -16,7 +16,7 @@ def str_to_date(string):
 
 
 # Get dates and high and low tempratures from file
-data_file = './data/death_valley_2014.csv'
+data_file = './data/sitka_weather_2014.csv'
 
 with open(data_file) as f:
     reader = csv.reader(f)
@@ -43,18 +43,20 @@ with open(data_file) as f:
 
 # Plot data with matplotlib
 fig = plt.figure(dpi=110, figsize=(10, 6))
-plt.plot(dates, highs, c='red', alpha=0.5)
-plt.plot(dates, lows, c='blue', alpha=0.5)
+plt.plot(dates, highs, c='red', alpha=0.5, label='highs')
+plt.plot(dates, lows, c='blue', alpha=0.5, label='lows')
 plt.fill_between(dates, highs, lows, facecolor='blue', alpha=0.1)
 
-title = 'Daily high and low temperatures - 2014\nDeath Valley, CA'
+title = 'Daily high and low temperatures - 2014\nSitkay, Alaska'
 plt.title(title, fontsize=18)
 plt.xlabel('', fontsize=13)
 plt.ylabel('Temperature (C)', fontsize=13)
+plt.ylim(-10, 45)
 plt.tick_params(axis='both', which='major', labelsize=13)
 
 plt.margins(x=0, y=0.1)
 fig.autofmt_xdate()
+plt.legend()
 
-plt.savefig('./data/images/high_low_death_valley.png')
+plt.savefig('./images/high_low_sitka.png')
 plt.show()
