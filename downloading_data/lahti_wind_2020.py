@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 
 
 # Store wind data in list
-lahti_wind_data = './data/lahti_weather_2020.csv'
-dates, wind_data = [], []
 lahti_wind_data = './downloading_data/data/lahti_weather_2020.csv'
+dates, wind_data = [], []
+
 with open(lahti_wind_data) as f:
     reader = csv.reader(f)
     row_header = next(reader)
