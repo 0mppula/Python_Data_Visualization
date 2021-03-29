@@ -17,5 +17,5 @@
 
 -   [x] 16-1. San Francisco
 -   [x] 16-2. Sitka-Death Valley Comparison
--   [ ] 16-3. Rainfall
--   [ ] 16-4. Explore
+-   [x] 16-3. Rainfall
+-   [x] 16-4. Explore
