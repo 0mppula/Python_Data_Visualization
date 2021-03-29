@@ -19,3 +19,7 @@
 -   [x] 16-2. Sitka-Death Valley Comparison
 -   [x] 16-3. Rainfall
 -   [x] 16-4. Explore
+-   [x] 16-5. All Countries
+-   [x] 16-6. Gross Domestic Product
+-   [x] 16-7. Choose Your Own Data
+-   [x] 16-8. Testing the `country_codes` Module
