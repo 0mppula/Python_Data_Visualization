@@ -21,5 +21,5 @@
 -   [x] 16-4. Explore
 -   [x] 16-5. All Countries
 -   [x] 16-6. Gross Domestic Product
--   [x] 16-7. Choose Your Own Data
--   [x] 16-8. Testing the `country_codes` Module
+-   [ ] 16-7. Choose Your Own Data
+-   [ ] 16-8. Testing the `country_codes` Module
