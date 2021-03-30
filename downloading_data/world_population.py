@@ -7,7 +7,6 @@ from country_codes import get_country_code
 
 # Load json data into a list
 filename = './downloading_data/data/population_data.json'
-# filename = './data/population_data.json'
 
 # Build the data into a list
 cc_populations = {}
