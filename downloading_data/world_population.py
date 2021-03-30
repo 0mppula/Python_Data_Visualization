@@ -1,6 +1,6 @@
 import json
 import pygal
-from pygal.style import DarkenStyle
+from pygal.style import DarkenStyle, LightColorizedStyle, RotateStyle
 
 from country_codes import get_country_code
 

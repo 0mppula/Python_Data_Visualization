@@ -5,7 +5,6 @@ from pygal.style import DarkenStyle, LightColorizedStyle, RotateStyle
 from country_codes import get_country_code
 
 # Urban population Data
-# urban_pop_2019 = './data/urban_population_2019.csv'
 urban_pop_2019 = './downloading_data/data/urban_population_2019.csv'
 cc_urban_pop = {}
 cc_error = {}
@@ -40,7 +39,9 @@ with open(urban_pop_2019) as f:
                 cc_urban_pop_3[cc] = urban_pop
 
 
-wm = pygal.maps.world.World()
+wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
+wm = pygal.maps.world.World(style=wm_style)
+wm.title = 'Global Urban Population - 2019'
 wm.add('<1M', cc_urban_pop_1)
 wm.add('<10M', cc_urban_pop_2)
 wm.add('>10M', cc_urban_pop_3)
