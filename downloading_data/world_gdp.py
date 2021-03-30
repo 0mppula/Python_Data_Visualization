@@ -1,12 +1,11 @@
 import json
 import pygal
-from pygal.style import DarkenStyle
+from pygal.style import DarkenStyle, LightColorizedStyle, RotateStyle
 
 from country_codes import get_country_code
 
 # GDP data file
 gdp_data = './downloading_data/data/global_gdp.json'
-# gdp_data = './data/global_gdp.json'
 
 # GDP Dictionary
 cc_gdp = {}
@@ -29,19 +28,19 @@ with open(gdp_data) as f:
 
             cc_gdp_1, cc_gdp_2, cc_gdp_3 = {}, {}, {}
             for cc, gdp in cc_gdp.items():
-                if gdp < 10**10:  # under 100 billion
-                    cc_gdp_1[cc] = gdp
-                elif gdp < 10**11:  # under 1 trillion
-                    cc_gdp_2[cc] = gdp
+                if gdp < 5*10**9:  # under 100 billion
+                    cc_gdp_1[cc] = int(gdp / 10**9)
+                elif gdp > 50*10**9:  # under 1 trillion
+                    cc_gdp_2[cc] = int(gdp / 10**9)
                 else:               # over 1 trillion
-                    cc_gdp_3[cc] = gdp
+                    cc_gdp_3[cc] = int(gdp / 10**9)
 
 # Plot data with pygal world
-wm_style = DarkenStyle('#ff8723')
+wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
 wm = pygal.maps.world.World(style=wm_style)
 wm.title = ('Global GDP (in Billions $USD) - 2010')
-wm.add('<$100B', cc_gdp_1)
-wm.add('<$1000B', cc_gdp_2)
-wm.add('>$1000B', cc_gdp_3)
+wm.add('$0-5B', cc_gdp_1)
+wm.add('$5-50B', cc_gdp_2)
+wm.add('>$50B', cc_gdp_3)
 
 wm.render_to_file('downloading_data/images/svg/global_gdp_2010.svg')
