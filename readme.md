@@ -23,3 +23,9 @@
 -   [x] 16-6. Gross Domestic Product
 -   [x] 16-7. Choose Your Own Data
 -   [x] 16-8. Testing the `country_codes` Module
+
+### Chapter 17 Working with APIs
+
+-   [ ] 17-1. Other Languages
+-   [ ] 17-2. Active Discussions
+-   [ ] 17-3. Testing `python_repos.py`
