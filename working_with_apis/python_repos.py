@@ -2,9 +2,7 @@ import requests
 
 # Make an API call and store the response
 url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
-limit_url = 'https://api.github.com/rate_limit'
 r = requests.get(url)
-r_2 = requests.get(limit_url)
 print('Status code:', r.status_code)
 
 # Store API response in a variable
