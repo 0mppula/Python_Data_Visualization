@@ -48,6 +48,7 @@ my_config.x_label_rotation = 45
 my_config.show_legend = False
 my_config.tooltip_fancy_mode = False
 my_config.truncate_label = 15
+my_config.y_title = 'Number of Comments'
 my_config.show_y_guides = False
 my_config.width = 1000
 
