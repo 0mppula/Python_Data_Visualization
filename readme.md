@@ -26,6 +26,6 @@
 
 ### Chapter 17 Working with APIs
 
--   [ ] 17-1. Other Languages
+-   [x] 17-1. Other Languages
 -   [ ] 17-2. Active Discussions
 -   [ ] 17-3. Testing `python_repos.py`
