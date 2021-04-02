@@ -6,12 +6,7 @@ from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
 from random_langugage import RandomLanguage
 
 RL = RandomLanguage()
-
-# languages = ['python', 'javascript', 'ruby', 'java', 'haskell', 'go', 'c']
-# random_index = randint(0, len(languages)-1)
-# language = languages[random_index]
 print(f'Creating a {RL.language_title} chart...')
-
 
 # Make an API request and store response
 url = f'https://api.github.com/search/repositories?q=language:{RL.language}&sort=stars'
