@@ -28,4 +28,4 @@
 
 -   [x] 17-1. Other Languages
 -   [x] 17-2. Active Discussions
--   [ ] 17-3. Testing `python_repos.py`
+-   [x] 17-3. Testing `python_repos.py`
