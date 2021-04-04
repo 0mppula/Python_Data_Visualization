@@ -13,7 +13,7 @@ def get_response():
 
 def get_repo_dicts(response):
     """ Return a set of dicts representing the most popular repositories. """
-    response_dict = r.json()
+    response_dict = response.json()
     repo_dicts = response_dict['items']
     print(f'Total repositories: {response_dict["total_count"]}')
     return repo_dicts

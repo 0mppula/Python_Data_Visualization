@@ -19,7 +19,7 @@ def get_response():
 
 def get_repo_dicts(response):
     """ Store and return language repository. """
-    response_dict = r.json()
+    response_dict = response.json()
     print('Total repositories: ', response_dict['total_count'])
     repo_dicts = response_dict['items']
     return repo_dicts
